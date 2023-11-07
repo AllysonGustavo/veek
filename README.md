@@ -1,6 +1,6 @@
 # veek
 
-[![Cron for Veek check-in](https://github.com/AllysonGustavo/veek/actions/workflows/check-in-cron.yml/badge.svg?branch=main)](https://github.com/rfoel/AllysonGustavo/actions/workflows/check-in-cron.yml)
+[![Cron for Veek check-in](https://github.com/AllysonGustavo/veek/actions/workflows/check-in-cron.yml/badge.svg?branch=main)](https://github.com/AllysonGustavo/veek/actions/workflows/check-in-cron.yml)
 
 Use GitHub Actions to run Veek's check-in on scheduled time. It runs automatically every 30 minutes, but you can also trigger check-ins by dispatching the [check-in-manual.yml](.github/workflows/check-in-manual.yml) action.
 
