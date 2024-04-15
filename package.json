@@ -1,6 +1,6 @@
 {
   "name": "veek",
-  "version": "7.1.1",
+  "version": "7.1.2",
   "private": true,
   "type": "module",
   "repository": "git@github.com:rfoel/veek.git",
@@ -9,7 +9,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^21.0.7"
+    "semantic-release": "^23.0.2"
   },
   "release": {
     "branches": [
